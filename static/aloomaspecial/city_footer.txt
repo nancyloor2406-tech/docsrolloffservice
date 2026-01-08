@@ -1,0 +1,47 @@
+    <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 20px; font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:medium;">1. What can I not put in a dumpster?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">You cannot dispose of hazardous materials in a roll off dumpster in #State. This includes items like liquid paint, asbestos, pesticides, car batteries, tires, and motor oil, which require specialized disposal.</p>
+                <h4 class="template4 palooma" style="font-size:large;">2. How do I pay for the rental?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">We accept major credit cards and process payment at the time of booking or delivery. Your dumpster rental cost around #State includes the drop-off, pick-up, rental period, and a specific weight allowance.</p>
+                <h4 class="template4 palooma" style="font-size:large;">3. How long can I keep the waste bin rental in #State?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Our standard rental is 7 days, but we are flexible. If you need your trash container rental around #State for longer, just let us know, and we can arrange an extension.</p>
+                <h4 class="template4 palooma" style="font-size:large;">4. Do you offer same-day delivery?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">We strive to accommodate urgent requests whenever possible. If you need dumpster rental services near me around #State immediately, please call us early in the morning to check availability for same-day drop-off.</p>
+                <h4 class="template4 palooma" style="font-size:large;">5. Can I mix concrete with trash in my roll off dumpster in #State?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">It is best to keep heavy aggregates separate. We offer specific concrete dumpsters near me in #State to handle the weight without incurring overage fees on your standard garbage dumpster rental.</p>
+                <div class="callalooma mx-auto"><a href="tel:203-547-7583">Click Here To Call Us (203) 547-7583</a></div>
+            </div>
+        </div>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">#State Insights: Population,<br> Zip Codes, Influence, and Service Areas</h2>
+        <p>aloomaidcontentscity</p>
+        <p style="color:black;">Zip Codes in #State that we also serve: <i>aloomaidzip</i></p>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Cities Close To #State That We Also Serve</h2>
+        <div class="row">
+            aloomaidcitycloseto
+        </div>
+        <br><br>
+        aloomaidembeddedmap
+        </section>
+    </div>
